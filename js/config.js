@@ -25,50 +25,50 @@ window.RBConfig = {
   // Add your real photo paths here. Leave src empty ("") to show placeholder.
   photos: {
     photo01: {
-      src:     "images/photo01.png",                          // e.g. "images/sister-01.webp"
-      alt:     "Sister memory — a playful moment",
+      src:     "images/rakhi-ceremony.webp",
+      alt:     "Tying Rakhi — sister lovingly tying rakhi on brother's wrist",
       caption: "The silly moments were always the best.",
       year:    ""
     },
     photo02: {
-       src: "images/photo02.png",
-       alt: "Sister memory — a simple smile",
+       src: "images/sibling-memories.webp",
+       alt: "Sibling Memories — brother and sister sharing a candid moment",
        caption: "Some smiles never need a reason.",
        year: ""
     },
     photo03: {
-       src: "images/photo03.png",
-       alt: "Sister memory — a happy candid moment",
+       src: "images/rakhi-thali.webp",
+       alt: "Festive Traditions — realistic rakhi thali with diya, kumkum, sweets",
        caption: "The smiles I'll always remember.",
        year: ""
     },
     photo04: {
-       src: "images/photo04.png",
-       alt: "Sister memory — growing up",
+       src: "images/childhood-bond.webp",
+       alt: "Childhood Bond — young Indian siblings laughing and sharing sweets",
        caption: "Growing into the person you were meant to be.",
        year: ""
     },
     photo05: {
-       src: "images/photo05.png",
-       alt: "Sister memory — growing up together",
+       src: "images/growing-together.webp",
+       alt: "Growing Together — siblings walking together outdoors with care",
        caption: "Growing up, together.",
        year: ""
     },
-photo06: {
-       src: "images/photo06.png",
-       alt: "Sister memory — together with family",
+    photo06: {
+       src: "images/forever-bond.webp",
+       alt: "Forever Bond — brother and sister sharing a warm smile",
        caption: "Some memories are better together.",
        year: ""
     },
-photo07: {
-       src: "images/photo07.png",
-       alt: "Sister memory — a family moment",
+    photo07: {
+       src: "images/moments-forever.webp",
+       alt: "Moments worth keeping forever — Indian siblings laughing and celebrating together",
        caption: "Moments worth keeping forever.",
        year: ""
     },
-photo08: {
-       src: "images/photo08.jpg",
-       alt: "Sister memory — together, always",
+    photo08: {
+       src: "images/together-always.webp",
+       alt: "Together, always — elder sister and brother sharing a warm moment at sunset",
        caption: "And somehow, after all these years, it's still us.",
        year: ""
     }
